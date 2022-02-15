@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Cognitive Neuroscience Methods II'
 uid: 87692f57-1c27-2671-3dd1-e4f65f060321
 video_files:
   archive_url: https://archive.org/download/MIT9.13S19/MIT9_13S19_lec05_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/9-13-the-human-brain-spring-2019/43197ff4a4025c0791c558eb11673014_YD7QG4G7WVg.vtt
+  video_captions_file: /courses/9-13-the-human-brain-spring-2019/43197ff4a4025c0791c558eb11673014_YD7QG4G7WVg.vtt
   video_thumbnail_file: https://img.youtube.com/vi/YD7QG4G7WVg/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/9-13-the-human-brain-spring-2019/de3bbf89e8fc0153b6873491f5186a82_YD7QG4G7WVg.pdf
+  video_transcript_file: /courses/9-13-the-human-brain-spring-2019/de3bbf89e8fc0153b6873491f5186a82_YD7QG4G7WVg.pdf
 video_metadata:
   youtube_id: YD7QG4G7WVg
 ---

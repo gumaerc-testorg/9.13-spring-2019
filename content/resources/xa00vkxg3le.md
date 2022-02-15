@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-13-the-human-brain-spring-2019/19e8950b1a821f4fc5636024a290d5c1_xA00vkxG3lE.srt
+file: /media/courses/9-13-the-human-brain-spring-2019/19e8950b1a821f4fc5636024a290d5c1_xA00vkxG3lE.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 19e8950b-1a82-1f4f-c563-6024a290d5c1

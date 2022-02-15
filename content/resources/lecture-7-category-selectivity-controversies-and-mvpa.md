@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Category Selectivity, Controversies, and MVPA'
 uid: d8750710-8f44-448d-cfa0-f8c70f1cfca8
 video_files:
   archive_url: https://archive.org/download/MIT9.13S19/MIT9_13S19_lec07_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/9-13-the-human-brain-spring-2019/1c77e0b4df19592ca3916a5c9af75e07_otriwYhNtm0.vtt
+  video_captions_file: /courses/9-13-the-human-brain-spring-2019/1c77e0b4df19592ca3916a5c9af75e07_otriwYhNtm0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/otriwYhNtm0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/9-13-the-human-brain-spring-2019/3c19ff61df1badb72c67409563058aff_otriwYhNtm0.pdf
+  video_transcript_file: /courses/9-13-the-human-brain-spring-2019/3c19ff61df1badb72c67409563058aff_otriwYhNtm0.pdf
 video_metadata:
   youtube_id: otriwYhNtm0
 ---
