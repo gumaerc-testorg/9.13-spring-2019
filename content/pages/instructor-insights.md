@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "In this section, Prof. Nancy Kanwisher describes the effort to understand\
+  \ the mind as \u201Cthe grandest scientific quest of all time.\u201D "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection

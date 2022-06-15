@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Neuroanatomy'
 uid: bce0bff4-3585-57cf-ba3a-1159832cc30a
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** Basic brief neuroanatomy review in preparation for dissection, including an introduction to the cortex, primary regions, and topographic maps.
 
 **Speaker:** Nancy Kanwisher
+
+
+

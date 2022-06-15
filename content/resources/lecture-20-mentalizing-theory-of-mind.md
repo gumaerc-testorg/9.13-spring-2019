@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Mentalizing and Theory of Mind'
 uid: f2ee9aef-4ee6-458b-fb02-004d33d4295d
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** The ability of humans to think about what other people are thinking is implemented in brain regions highly specialized for this function alone.
 
 **Speaker:** Nancy Kanwisher
+
+
+

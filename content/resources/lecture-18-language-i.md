@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Language I'
 uid: 05f12666-b1b4-7d34-f7c5-b371ef0c4c25
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** Covers the basic organization of language in the brain and the long-standing question of the relationship between thought and language.
 
 **Speaker:** Nancy Kanwisher
+
+
+

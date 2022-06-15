@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Category Selectivity, Controversies, and MVPA'
 uid: d8750710-8f44-448d-cfa0-f8c70f1cfca8
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** Covers controversies and alternative views of the ventral visual pathway, multiple voxel pattern analysis, and the two visual pathways.
 
 **Speaker:** Nancy Kanwisher
+
+
+

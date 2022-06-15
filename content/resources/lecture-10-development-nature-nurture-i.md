@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Development, Nature & Nurture I'
 uid: 333b4566-c50d-075a-bd2f-0e0cbfc08731
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** This lecture examines how we think the cortex organizes in the brain over infancy and childhood, and the function of genes vs experience.
 
 **Speaker:** Nancy Kanwisher
+
+
+

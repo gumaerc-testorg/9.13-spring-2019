@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Attention and Awareness'
 uid: 57430a6d-db59-4091-4b0a-0822e9c37875
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** Looks at the differences in the mind and brain between perceptual information we are aware of versus information we are not.
 
 **Speaker:** Nancy Kanwisher
+
+
+

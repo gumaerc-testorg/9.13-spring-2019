@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Hearing and Speech'
 uid: e749efa9-6438-7018-cfb8-5c7edf0aaac1
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** Humans use hearing in species-specific ways, for speech and music. Ongoing research is working out the functional organization of these and other human auditory skills.
 
 **Speaker:** Nancy Kanwisher
+
+
+

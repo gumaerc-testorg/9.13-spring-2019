@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains information about the course, prerequisites, descriptions,
+  grading scheme, and requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Prerequisites
 
 _9.00 Introduction to Psychology_ or _9.01 Introduction to Neuroscience_, or permission of instructor.
 
-(Available on OCW: [9.00SC](/courses/9-00sc-introduction-to-psychology-fall-2011/), [9.00](/courses/9-00-introduction-to-psychology-fall-2004/), and [9.01](/courses/9-01-introduction-to-neuroscience-fall-2007/))
+(Available on OCW: [9.00SC](/courses/9-00sc-introduction-to-psychology-fall-2011), [9.00](/courses/9-00-introduction-to-psychology-fall-2004), and [9.01](/courses/9-01-introduction-to-neuroscience-fall-2007))
 
 Course Description
 ------------------

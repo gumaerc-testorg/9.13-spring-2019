@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section contains the video recordings and info about the lectures.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

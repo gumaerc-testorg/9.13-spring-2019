@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Brain Networks'
 uid: 45eb7b2e-622d-9637-cd0a-9b85c1e5aca9
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** Looks at the major white matter tracts in the human brain, predicting function and correlations between regions.
 
 **Speaker:** Nancy Kanwisher
+
+
+

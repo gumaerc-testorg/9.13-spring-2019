@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/9-13-the-human-brain-spring-2019/8a9a404d91d358a6a5c7adf54e74b6de_SchmVoc5NzY.vtt
+file: /courses/9-13-the-human-brain-spring-2019/8a9a404d91d358a6a5c7adf54e74b6de_SchmVoc5NzY.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

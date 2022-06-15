@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Cognitive Neuroscience Methods II'
 uid: 87692f57-1c27-2671-3dd1-e4f65f060321
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** Continuation of discussion of methods in cognitive neuroscience including computation, behavior, fMRI, ERPs & MEG, neuropsychology patients, TMS, and intracranial recordings in humans and nonhuman primates.
 
 **Speaker:** Nancy Kanwisher
+
+
+

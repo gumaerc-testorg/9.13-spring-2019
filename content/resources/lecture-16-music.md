@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Music'
 uid: 25098896-c623-59f3-e01f-24e06a6038df
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** This session explores the functional organization of music in human beings.
 
 **Speaker:** Nancy Kanwisher
+
+
+

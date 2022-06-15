@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Details of the assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,7 +15,7 @@ uid: f8fa0954-ce62-dd73-d549-29dd3f82aeba
 
 **Assignment:** Read the assigned article and think big about the problem it addresses. Think of this article as essentially a first baby step in a broader line of work. What questions does this article answer, and what do you want to know next?
 
-For the next assignment you will have a significant written [experimental design assignment]({{< baseurl >}}/pages/assignments/experimental-design-assignment) (15% of your course grade) designing your own experiment (or two) to ask one of the next questions about intuitive physics in the brain, using any of the methods you have learned about in the course.
+For the next assignment you will have a significant written {{% resource_link cf2d3612-58f0-3760-629f-c4d035c64660 "experimental design assignment" %}} (15% of your course grade) designing your own experiment (or two) to ask one of the next questions about intuitive physics in the brain, using any of the methods you have learned about in the course.
 
 For now you are asked only to read this article and answer questions about it. But as you read it, start thinking about the broader space of questions this article opens up, and what you might propose for the larger experimental design assignment.
 

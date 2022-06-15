@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Navigation I'
 uid: c73fddc8-7a9f-cecd-4fd1-a0f9d2e02338
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** The functional organization of scene perception and navigation and the various brain structures that implement them.
 
 **Speaker:** Nancy Kanwisher
+
+
+

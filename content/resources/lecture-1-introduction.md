@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction'
 uid: f07ab606-f304-973e-7eca-ca9cd5230496
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Summary:** Prof. Kanwisher tells a true story to introduce the course, then covers the why, how, and what of studying the human brain, and gives a course overview.
 
 **Speaker:** Nancy Kanwisher
+
+
+

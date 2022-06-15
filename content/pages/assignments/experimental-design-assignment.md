@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Describes the requirements for the experimental design assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
