@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Summary:** The ability of humans to think about what other people are thinking is implemented in brain regions highly specialized for this function alone.
 
 **Speaker:** Nancy Kanwisher
-
-
 

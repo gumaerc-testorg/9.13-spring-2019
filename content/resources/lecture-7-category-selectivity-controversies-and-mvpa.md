@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Summary:** Covers controversies and alternative views of the ventral visual pathway, multiple voxel pattern analysis, and the two visual pathways.
 
 **Speaker:** Nancy Kanwisher
-
-
 

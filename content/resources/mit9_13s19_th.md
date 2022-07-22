@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: Labeled image of a human cortex with regions marked with different colors.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: MIT9_13S19_th.jpg

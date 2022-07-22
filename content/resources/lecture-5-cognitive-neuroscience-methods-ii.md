@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Summary:** Continuation of discussion of methods in cognitive neuroscience including computation, behavior, fMRI, ERPs & MEG, neuropsychology patients, TMS, and intracranial recordings in humans and nonhuman primates.
 
 **Speaker:** Nancy Kanwisher
-
-
 
