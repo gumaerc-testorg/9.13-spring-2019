@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: Describes the requirements for the experimental design assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
 title: Experimental Design Assignment
 uid: cf2d3612-58f0-3760-629f-c4d035c64660

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This page contains the schedule, topics, and descriptions of what is
+  covered in this course. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f7f54d7d-aff1-f7da-528d-663b4768ccc7
 ---
