@@ -44,8 +44,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Written Assignments",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "1bb4be28-45a2-48e5-8c9e-5d7fab9f1b22",
+  "site_uid": "181b4430-5a59-4ba9-8ebb-fdad3d272b99",
+  "site_short_id": "9.13-spring-2019",
   "title": "Course Metadata"
 }
