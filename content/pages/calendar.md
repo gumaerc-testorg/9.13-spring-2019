@@ -2,32 +2,31 @@
 content_type: page
 description: 'This page contains the schedule, topics, and descriptions of what is
   covered in this course. '
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: f7f54d7d-aff1-f7da-528d-663b4768ccc7
 ---
-
-WEEK ONE
---------
+## WEEK ONE
 
 ### Lecture 1: Introduction
 
 Prof. Kanwisher tells a true story to introduce the course. The why, how, and what of studying the human brain. Course overview.
 
-WEEK TWO
---------
+## WEEK TWO
 
 ### Lecture 2: Neuroanatomy
 
 Basic brief neuroanatomy review in preperation for dissection on Wednesday. Introduction to the cortex. Primary regions, topographic maps–what counts as a cortical area? Visual motion area MT as an example.
 
-### Lecture 3: Master Class: Human Brain Dissection with Guest Lecturer Ann Graybiel (video not recorded)
+### Lecture 3: Master Class: Human Brain Dissection with Guest Lecturer Ann Graybiel
+
+*video not recorded*
 
 Assignment 1 due
 
-WEEK THREE
-----------
+## WEEK THREE
 
 ### Lecture 4: Cognitive Neuroscience Methods I
 
@@ -41,10 +40,9 @@ Assignment 2 due
 
 Quiz at end of class
 
-WEEK FOUR
----------
+## WEEK FOUR
 
-### _Lecture 6: Experimental Design_
+### *Lecture 6: Experimental Design*
 
 Class breaks into groups to work out details of experiments proposed in assignment.
 
@@ -56,8 +54,7 @@ Controversies and alternative views of the ventral visual pathway. Multiple voxe
 
 Quiz at end of class
 
-WEEK FIVE
----------
+## WEEK FIVE
 
 How do you know where you are, or how to get from here to there? Cognitive neuroscience has revealed the functional organization of scene perception and navigation and the various brain structures that implement them.
 
@@ -69,8 +66,7 @@ Assignment 4 due
 
 Quiz at end of class
 
-WEEK SIX
---------
+## WEEK SIX
 
 How does the intricate organization of the cortex get wired up in the brain over infancy and childhood? What are the roles of genes and experience? Can cortical organization change in adulthood? Recent work in developmental cognitive neuroscience has started to answer some of these fundamental questions.
 
@@ -78,21 +74,23 @@ How does the intricate organization of the cortex get wired up in the brain over
 
 Assignment 5 due
 
-### Lecture 11: Development, Nature & Nurture II (class canceled; students watched lecture from 2018)
+### Lecture 11: Development, Nature & Nurture II
+
+*class canceled; students watched lecture from 2018*
 
 Quiz at end of class
 
-WEEK SEVEN
-----------
+## WEEK SEVEN
 
 ### Lecture 12: Brain-Machine Interface with Guest Lecturer Michael Cohen
+
+*video unavailable*
 
 Assignment 6 due
 
 ### MIDTERM
 
-WEEK EIGHT
-----------
+## WEEK EIGHT
 
 ### Lecture 13: Number
 
@@ -100,14 +98,15 @@ Even infants, spiders, and frogs can count. What is the nature of the human repr
 
 Assignment 7 due
 
-### Lecture 14: New Methods Applied to Number (video not recorded)
+### Lecture 14: New Methods Applied to Number
+
+*video not recorded*
 
 Review and student breakout groups.
 
-_**The mental abilities listed in the lectures above are shared with animals whereas those in the lectures below are mostly not.**_
+***The mental abilities listed in the lectures above are shared with animals whereas those in the lectures below are mostly not.***
 
-WEEK NINE
----------
+## WEEK NINE
 
 ### Lecture 15: Hearing and Speech
 
@@ -119,13 +118,13 @@ Assignment 8 due
 
 Quiz at end of class
 
-WEEK TEN
---------
+## WEEK TEN
 
-### Lecture 17: MEG Decoding and RSA (video not recorded)
+### Lecture 17: MEG Decoding and RSA
 
-WEEK ELEVEN
------------
+*video not recorded*
+
+## WEEK ELEVEN
 
 ### Lecture 18: Language I
 
@@ -133,10 +132,11 @@ Language is our signature human cognitive skill. Cognitive neuroscience has only
 
 Quiz at end of class
 
-### Lecture 19: Language II (class canceled, video not recorded)
+### Lecture 19: Language II
 
-WEEK TWELVE
------------
+*class canceled, video not recorded*
+
+## WEEK TWELVE
 
 ### Lecture 20: Mentalizing and Theory of Mind
 
@@ -152,19 +152,21 @@ Experimental Design Project due
 
 Design an experiment using any of the methods of human cognitive neuroscience to address the brain basis of intuitive physics.
 
-WEEK THIRTEEN
--------------
+## WEEK THIRTEEN
 
-### Lecture 22: Experimental Design (video not recorded)
+### Lecture 22: Experimental Design
+
+*video not recorded*
 
 Class breaks into groups to discuss and share details about their experiment proposals.
 
-### Lecture 23: Deep Networks (updated 2021 video)
+### Lecture 23: Deep Networks
+
+*updated 2021 video*
 
 Deep learning and human cognition.
 
-WEEK FOURTEEN
--------------
+## WEEK FOURTEEN
 
 ### Lecture 24: Attention and Awareness
 
@@ -172,7 +174,9 @@ What is the difference in the mind and brain between perceptual information we a
 
 Quiz at end of class
 
-### Lecture 25: Recap of Course and Final Review (video not recorded)
+### Lecture 25: Recap of Course and Final Review
+
+*video not recorded*
 
 ### FINAL
 
