@@ -11,7 +11,7 @@ title: Assignment 4
 uid: 081faeba-bc00-ee61-fd3c-0c6a648fe7fc
 ---
 
-**Article:** Bryan, P.B., J.B. Julian, and R.A. Epstein. "[Rectilinear Edge Selectivity Is Insufficient to Explain the Category Selectivity of the Parahippocampal Place Area](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00137/full)." _Front. Hum. Neurosci._ 10, no. 137 (2016): 1–12. DOI: 10.3389/fnhum.2016.00137
+**Article:** Bryan, P.B., J.B. Julian, and R.A. Epstein. "{{% resource_link "e2550a39-9d65-432f-9788-31603630b672" "Rectilinear Edge Selectivity Is Insufficient to Explain the Category Selectivity of the Parahippocampal Place Area" %}}." _Front. Hum. Neurosci._ 10, no. 137 (2016): 1–12. DOI: 10.3389/fnhum.2016.00137
 
 **Assignment:** Read the paper and answer the questions below.
 
