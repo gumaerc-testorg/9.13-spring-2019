@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/9-13-the-human-brain-spring-2019/c360823cca05102386db1752b905cbfa_W2PY6z1Wddg.pdf
+file_size: 106957
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
