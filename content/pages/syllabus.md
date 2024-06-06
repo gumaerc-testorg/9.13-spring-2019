@@ -49,4 +49,4 @@ Information about Course Content
 
 Note that some of the lectures are not available on OCW. Lectures 3, 14, and 22 consisted of student breakout groups, and lectures 17, 19 and 25 were not recorded or were canceled. Lecture 11 was canceled, but students watched the 2018 version of the lecture, which is included here.
 
-For additional lectures from 2018 and many more videos on the brain by Prof. Kanwisher, please visit {{% resource_link "da8d0806-9208-490d-a6ad-43841284581b" "_Nancy's Brain Talks_" %}} website.
+For additional lectures from 2018 and many more videos on the brain by Prof. Kanwisher, please visit [_Nancy's Brain Talks_](http://nancysbraintalks.mit.edu/) website.
