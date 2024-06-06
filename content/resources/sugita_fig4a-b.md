@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/9-13-the-human-brain-spring-2019/184f26f473976c412cc2c19a08eee761_sugita_fig4a-b.jpg
+file_size: 65222
 file_type: image/jpeg
 image_metadata:
   caption: ''
