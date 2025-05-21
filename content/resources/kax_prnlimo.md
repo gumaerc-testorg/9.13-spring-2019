@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/9-13-the-human-brain-spring-2019/7f93188edb2e987d46bfecfbf00a240d_kAX_PRnliMo.srt
+file: /courses/9-13-the-human-brain-spring-2019/7f93188edb2e987d46bfecfbf00a240d_kAX_PRnliMo.srt
 file_size: 146383
 file_type: application/x-subrip
 learning_resource_types: []
