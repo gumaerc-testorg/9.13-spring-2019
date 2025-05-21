@@ -29,6 +29,6 @@ videos:
   - 57430a6d-db59-4091-4b0a-0822e9c37875
   website: 9-13-the-human-brain-spring-2019
 ---
-Note that lectures 3, 14, 17, 19, 22, and 25 were not recorded. (Lecture 23: Deep Networks will be added soon.)
+Note that lectures 3, 14, 17, 19, 22, and 25 were not recorded.
 
 {{< video-gallery "94c7ff62-8a9f-7bbc-83e7-4bc55f46423c" >}}
