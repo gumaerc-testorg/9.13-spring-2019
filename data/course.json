@@ -32,6 +32,7 @@
   },
   "course_title": "The Human Brain",
   "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course surveys the core perceptual and cognitive abilities of the human mind and asks how they are implemented in the brain. Key themes include the representations, development, and degree of functional specificity of these components of mind and brain. The course will take students straight to the cutting edge of the field, empowering them to understand and critically evaluate empirical articles in the current literature.\n",
   "department_numbers": [
     "9"
@@ -46,9 +47,11 @@
     "Lecture Videos",
     "Written Assignments",
     "Lecture Notes",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Podcasts"
   ],
   "site_uid": "181b4430-5a59-4ba9-8ebb-fdad3d272b99",
   "site_short_id": "9.13-spring-2019",
+  "site_url_path": "courses/9-13-the-human-brain-spring-2019",
   "title": "Course Metadata"
 }
