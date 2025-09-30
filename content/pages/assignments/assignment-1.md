@@ -13,7 +13,7 @@ uid: de0c78a0-e97e-7e69-b698-5d721e767a86
 
 **Note:** Lecture 2 should help but hopefully not be required for this assignment.
 
-**Article:** Tootell, R.B.H., J.B. Reppas, et al. "[Visual Motion Aftereffect in Human Cortical Area MT Revealed by Functional Magnetic Resonance Imaging](https://www.nature.com/articles/375139a0)." _Nature_ 375 (1995): 139–41.  DOI: 10.1038/375139a0
+**Article:** Tootell, R.B.H., J.B. Reppas, et al. "{{% resource_link "ede3f720-a743-486a-b4d1-f1ad386d138e" "Visual Motion Aftereffect in Human Cortical Area MT Revealed by Functional Magnetic Resonance Imaging" %}}." _Nature_ 375 (1995): 139–41.  DOI: 10.1038/375139a0
 
 **Assignment:** Read the assigned article carefully (expect to spend at least one hour on this, possibly more) and think about it, then provide short answers to the questions below.
 
